@@ -1,0 +1,3 @@
+[submodule "tutorials/depy"]
+	path = tutorials/depy
+	url = https://github.com/jseabold/depy.git
